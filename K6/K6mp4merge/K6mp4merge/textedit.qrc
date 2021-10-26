@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo32.png</file>
+        <file>images/editcopy.png</file>
+        <file>images/editcut.png</file>
+        <file>images/editpaste.png</file>
+        <file>images/editredo.png</file>
+        <file>images/editundo.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/fileprint.png</file>
+        <file>images/filesave.png</file>
+        <file>images/textbold.png</file>
+        <file>images/textcenter.png</file>
+        <file>images/textitalic.png</file>
+        <file>images/textjustify.png</file>
+        <file>images/textleft.png</file>
+        <file>images/textright.png</file>
+        <file>images/textunder.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/insert-image.png</file>
+        <file>images/media-playback-pause.png</file>
+        <file>images/media-playback-start.png</file>
+        <file>images/preferences-system-network.png</file>
+        <file>images/video-x-mng.png</file>
+        <file>images/media-eject.png</file>
+        <file>images/new_news.png</file>
+        <file>images/tool-animator.png</file>
+        <file>images/avi.png</file>
+        <file>images/arrow-up-double.png</file>
+        <file>images/arrow-up.png</file>
+        <file>images/arrow-down.png</file>
+        <file>images/arrow-down-double.png</file>
+        <file>images/character-set.png</file>
+        <file>k6admin.ico</file>
+    </qresource>
+</RCC>

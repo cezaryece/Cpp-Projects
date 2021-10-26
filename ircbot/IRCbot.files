@@ -1,0 +1,4 @@
+debug/config.h
+debug/src/ircbot.o
+src/ircbot.cpp
+src/ircbot.h
